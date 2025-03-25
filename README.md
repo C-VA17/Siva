@@ -9,7 +9,7 @@
 
    -  However, after six years in the plastic manufacturing industry, I began to feel the need for new challenges. 
 
-   -    As I explored career paths with strong growth prospects, I discovered the field of Data Science – a field that aligns perfectly with my analytical skills and my passion for problem-solving. 
+   -    As I explored career paths with strong growth prospects, I discovered the field of Data Science, a field that aligns perfectly with my analytical skills and my passion for problem-solving. 
 
    -    This has led me to pursue a Master’s in Data Science to transition into this exciting and dynamic domain.  
 
